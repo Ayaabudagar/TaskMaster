@@ -17,7 +17,7 @@ The all tasks page should just be an image with a back button; it needs no funct
 ![mytask](img/mytask.png)
 
 ## add task
-![add task](img/addtask.png)
+![addtask](img/addtask.png)
 
 ## all task
-![all task](img/alltask.png)
+![alltask](img/alltask.png)
