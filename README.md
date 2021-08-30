@@ -14,10 +14,25 @@ The all tasks page should just be an image with a back button; it needs no funct
 
 
 ## home page 
-![mytask](img/mytask.png)
+![mytask](img/mytask.PNG)
 
 ## add task
-![add task](img/addtask.png)
+![addtask](img/addtask.PNG)
 
 ## all task
-![all task](img/alltask.png)
+![alltask](img/alltask.PNG)
+
+## updated home page 
+![home page](img/homepage.PNG)
+
+## labs page
+![labs](img/labs.PNG)
+
+## codechallenges page 
+![code challenges](img/codechallenges.PNG)
+
+## sport page
+![sport](img/sport.PNG)
+
+## setting page 
+![setting](img/setting.PNG)
