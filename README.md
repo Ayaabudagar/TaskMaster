@@ -22,6 +22,7 @@ The all tasks page should just be an image with a back button; it needs no funct
 ## all task
 ![alltask](img/alltask.PNG)
 
+
 ## updated home page 
 ![home page](img/homepage.PNG)
 
@@ -36,3 +37,5 @@ The all tasks page should just be an image with a back button; it needs no funct
 
 ## setting page 
 ![setting](img/setting.PNG)
+=======
+
