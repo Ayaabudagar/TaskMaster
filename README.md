@@ -1,4 +1,5 @@
 # TaskMaster
+## lab 26
 ### The main page  
  should have a heading at the top of the page, an image to mock the “my tasks” view, and buttons at the bottom of the page to allow going to the “add tasks” and “all tasks” page.
 
@@ -7,7 +8,9 @@ On the “Add a Task” page, allow users to type in details about a new task, s
 
 ### All Tasks
 The all tasks page should just be an image with a back button; it needs no functionality.
-
+ 
+ ## lab 27
+ 
 ### Task Detail Page
 Create a Task Detail page. It should have a title at the top of the page, and a Lorem Ipsum description.
 
@@ -19,7 +22,10 @@ The main page should be modified to contain three different buttons with hardcod
 
 The homepage should also contain a button to visit the Settings page, and once the user has entered their username, it should display “{username}’s tasks” above the three task buttons.
 
-
+## lab 28
+*refactor  homepage to look snazzy, with a RecyclerView full of Task data.
+## Homepage
+Refactor your homepage to use a RecyclerView for displaying Task data. This should have hardcoded Task data for now.
 
 
 
