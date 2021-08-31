@@ -36,3 +36,11 @@ The all tasks page should just be an image with a back button; it needs no funct
 
 ## setting page 
 ![setting](img/setting.PNG)
+
+
+## updated home page 
+![home page](img/lab.PNG)
+![home page](img/cc.PNG)
+![home page](img/sports.PNG)
+
+
