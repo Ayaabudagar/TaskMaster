@@ -48,5 +48,13 @@ The homepage should also contain a button to visit the Settings page, and once t
 
 ## setting page 
 ![setting](img/setting.PNG)
-=======
+
+
+
+## updated home page 
+![home page](img/lab.PNG)
+![home page](img/cc.PNG)
+![home page](img/sports.PNG)
+
+
 
